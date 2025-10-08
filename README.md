@@ -54,3 +54,7 @@ Encourage ethical AI practices and responsible ML
   [Course Link](https://www.deeplearning.ai/courses/agentic-ai/)  
   ↳ Fundamental understanding and practical knowledge to develop production-ready agentic applications, from design patterns to deployment and evaluation.
 
+FRAME Bengal – Fellowship & Mentorship Opportunities
+
+[FRAME Bengal](https://framebengal.com/)
+
