@@ -58,3 +58,4 @@ FRAME Bengal – Fellowship & Mentorship Opportunities
 
 [FRAME Bengal](https://framebengal.com/)
 
+[ML-Ops YouTube Playlist](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaAR2w3oX5yMIQA8pUo5zt2)
